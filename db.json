@@ -95,6 +95,6 @@
             "outloud" : true,
             "body" : "Elige a un jugador a tu lado que comience la cascada, tu serás el ultimo. Todos los jugadores comienzan a tomar y solo pueden detenerse cuando el jugador anterior se detenga. El jugador que falle, toma.",
             "price" : 2
-        },
+        }
     ]
 }
