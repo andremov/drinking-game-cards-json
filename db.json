@@ -11,7 +11,7 @@
         {
             "id" : 1,
             "category" : 1,
-            "people" : '?',
+            "people" : "?",
             "outloud" : true,
             "body" : "Comparte una verdad y una mentira sobre ti. Los jugadores que no hallen la mentira, toman.",
             "shots" : 2
@@ -51,7 +51,7 @@
         {
             "id" : 6,
             "category" : 0,
-            "people" : '?',
+            "people" : "?",
             "outloud" : true,
             "body" : "Toman las chicas.",
             "shots" : 1
@@ -59,7 +59,7 @@
         {
             "id" : 7,
             "category" : 0,
-            "people" : '?',
+            "people" : "?",
             "outloud" : true,
             "body" : "Toman los chicos.",
             "shots" : 1
@@ -67,7 +67,7 @@
         {
             "id" : 8,
             "category" : 2,
-            "people" : '?',
+            "people" : "?",
             "outloud" : false,
             "body" : "Grita \"Al piso!\", el ultimo jugador en tirarse toma.",
             "shots" : 1
@@ -75,7 +75,7 @@
         {
             "id" : 9,
             "category" : 1,
-            "people" : '?',
+            "people" : "?",
             "outloud" : true,
             "body" : "Hazle una pregunta a otro jugador. Ese jugador debe hacer otra pregunta a otro jugador. El jugador que falle, toma",
             "shots" : 3
@@ -83,7 +83,7 @@
         {
             "id" : 10,
             "category" : 1,
-            "people" : '?',
+            "people" : "?",
             "outloud" : true,
             "body" : "Los jugadores toman turnos diciendo palabras, asegurandose que rimen con la palabra anterior. El jugador que falle, toma.",
             "shots" : 2
@@ -91,7 +91,7 @@
         {
             "id" : 11,
             "category" : 2,
-            "people" : '?',
+            "people" : "?",
             "outloud" : true,
             "body" : "Elige a un jugador a tu lado que comience la cascada, tu serás el ultimo. Todos los jugadores comienzan a tomar y solo pueden detenerse cuando el jugador anterior se detenga. El jugador que falle, toma.",
             "shots" : 2
