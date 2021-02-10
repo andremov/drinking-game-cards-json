@@ -1,99 +1,12 @@
-{"cards":[
+{
+  "cards":[
     {
         "id" : 0,
         "category" : "reto",
         "title" : "seco mareco",
         "outloud" : true,
         "body" : "Juega \"Seco Mareco\" con otro jugador. El jugador que se equivoque, toma.",
-        "price" : "1"
-    },
-    {
-        "id" : 1,
-        "category" : "reto",
-        "title" : "detective",
-        "outloud" : true,
-        "body" : "Comparte una verdad y una mentira sobre ti. Los jugadores que no hallen la mentira, toman.",
-        "price" : "2"
-    },
-    {
-        "id" : 2,
-        "category" : "reto",
-        "title" : "oraculo",
-        "outloud" : true,
-        "body" : "Di un dato que crees le ha pasado al jugador a tu izquierda, si no le ha pasado, tomas.",
-        "price" : "1"
-    },
-    {
-        "id" : 3,
-        "category" : "castigo",
-        "title" : "x2",
-        "outloud" : true,
-        "body" : "Duplica los tragos de un jugador.",
-        "price" : "0"
-    },
-    {
-        "id" : 4,
-        "category" : "castigo",
-        "title" : "un trago",
-        "outloud" : true,
-        "body" : "Toma un trago.",
-        "price" : "1"
-    },
-    {
-        "id" : 5,
-        "category" : "castigo",
-        "title" : "dos tragos",
-        "outloud" : true,
-        "body" : "Toma dos tragos.",
-        "price" : "2"
-    },
-    {
-        "id" : 6,
-        "category" : "castigo",
-        "title" : "chicas",
-        "outloud" : true,
-        "body" : "Toman las chicas.",
-        "price" : "1"
-    },
-    {
-        "id" : 7,
-        "category" : "castigo",
-        "title" : "chicos",
-        "outloud" : true,
-        "body" : "Toman los chicos.",
-        "price" : "1"
-    },
-    {
-        "id" : 8,
-        "category" : "reto",
-        "title" : "granada",
-        "outloud" : false,
-        "body" : "Grita \"Al piso!\", el ultimo jugador en tirarse toma.",
-        "price" : "1"
-    },
-    {
-        "id" : 9,
-        "category" : "reto",
-        "title" : "curioso",
-        "outloud" : true,
-        "body" : "Hazle una pregunta a otro jugador. Ese jugador debe hacer otra pregunta a otro jugador. El jugador que falle, toma",
-        "price" : "3"
-    },
-    {
-        "id" : 10,
-        "category" : "reto",
-        "title" : "poeta",
-        "outloud" : true,
-        "body" : "Los jugadores toman turnos diciendo palabras, asegurandose que rimen con la palabra anterior. El jugador que falle, toma.",
-        "price" : "2"
-    },
-    {
-        "id" : 11,
-        "category" : "reto",
-        "title" : "cascada",
-        "outloud" : true,
-        "body" : "Elige a un jugador a tu lado que comience la cascada, tu serás el ultimo. Todos los jugadores comienzan a tomar y solo pueden detenerse cuando el jugador anterior se detenga. El jugador que falle, toma.",
-        "price" : "2"
-    },
-]
+        "price" : 1
+    }
+  ]
 }
