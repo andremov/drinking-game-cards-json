@@ -35,7 +35,7 @@
         {
             "id" : 4,
             "category" : 0,
-            "people" : 2,
+            "people" : 1,
             "outloud" : true,
             "body" : "Toma un trago.",
             "shots" : 1
@@ -43,7 +43,7 @@
         {
             "id" : 5,
             "category" : 0,
-            "people" : 2,
+            "people" : 1,
             "outloud" : true,
             "body" : "Toma dos tragos.",
             "shots" : 2
