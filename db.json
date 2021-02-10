@@ -1,20 +1,20 @@
 {
-  "cards":[
-    {
-        "id" : 0,
-        "category" : "reto",
-        "title" : "seco mareco",
-        "outloud" : true,
-        "body" : "Juega \"Seco Mareco\" con otro jugador. El jugador que se equivoque, toma.",
-        "price" : 1
-    },
-    {
-        "id" : 1,
-        "category" : "reto",
-        "title" : "detective",
-        "outloud" : true,
-        "body" : "Comparte una verdad y una mentira sobre ti. Los jugadores que no hallen la mentira, toman.",
-        "price" : 2
-    }
-  ]
+    "cards": [
+        {
+            "id" : 0,
+            "category" : "reto",
+            "title" : "seco mareco",
+            "outloud" : true,
+            "body" : "Juega \"Seco Mareco\" con otro jugador. El jugador que se equivoque, toma.",
+            "price" : 1
+        },
+        {
+            "id" : 1,
+            "category" : "reto",
+            "title" : "detective",
+            "outloud" : true,
+            "body" : "Comparte una verdad y una mentira sobre ti. Los jugadores que no hallen la mentira, toman.",
+            "price" : 2
+        }
+    ]
 }
