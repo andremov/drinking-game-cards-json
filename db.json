@@ -14,7 +14,7 @@
             "people" : "?",
             "outloud" : true,
             "body" : "Comparte una verdad y una mentira sobre ti. Los jugadores que no hallen la mentira, toman.",
-            "shots" : 2
+            "shots" : 1
         },
         {
             "id" : 2,
@@ -78,7 +78,7 @@
             "people" : "?",
             "outloud" : true,
             "body" : "Hazle una pregunta a otro jugador. Ese jugador debe hacer otra pregunta a otro jugador. El jugador que falle, toma",
-            "shots" : 3
+            "shots" : 2
         },
         {
             "id" : 10,
@@ -86,7 +86,7 @@
             "people" : "?",
             "outloud" : true,
             "body" : "Los jugadores toman turnos diciendo palabras, asegurandose que rimen con la palabra anterior. El jugador que falle, toma.",
-            "shots" : 2
+            "shots" : 1
         },
         {
             "id" : 11,
@@ -94,7 +94,71 @@
             "people" : "?",
             "outloud" : true,
             "body" : "Elige a un jugador a tu lado que comience la cascada, tu serás el ultimo. Todos los jugadores comienzan a tomar y solo pueden detenerse cuando el jugador anterior se detenga. El jugador que falle, toma.",
-            "shots" : 2
+            "shots" : "?"
+        },
+        {
+            "id" : 12,
+            "category" : 2,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Impón una regla para esta ronda. El jugador que la incumpla, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 13,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Por las siguientes dos rondas, todas las bebidas tienen un duende invisible! Antes de tomar, los jugadores deben remover el duende, y devolverlo despues de tomar. El jugador que olvide al duende, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 14,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Por las siguientes dos rondas, todos los jugadores deben terminar sus oraciones con una frase de tu elección. El jugador que olvide decir la frase, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 15,
+            "category" : 2,
+            "people" : 2,
+            "outloud" : true,
+            "body" : "Elige a otro jugador para competir jugando \"Flip Cup\". El jugador que pierda, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 16,
+            "category" : 2,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Anuncia una pregunta del estilo \"¿Quien es el mas probable de...\", todos los jugadores a la cuenta de tres apuntan al jugador mas apropiado. Los jugadores toman por cada jugador apuntandoles.",
+            "shots" : 1
+        },
+        {
+            "id" : 17,
+            "category" : 2,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Los jugadores cierran los ojos y giran en la dirección de otro jugador. A la cuenta de tres, todos los jugadores abren los ojos. Si dos jugadores se están viendo mutuamente, toman.",
+            "shots" : 1
+        },
+        {
+            "id" : 18,
+            "category" : 2,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Tienes un minuto para transferir tu bebida de un vaso a otro unicamente usando una cuchara. Al finalizar el tiempo, debes tomar lo que quede en tu vaso original.",
+            "shots" : 1
+        },
+        {
+            "id" : 19,
+            "category" : 2,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "En cualquier momento de esta ronda puedes congelar el juego, sin moverte. El ultimo jugador en darse cuenta y congelarse, toma.",
+            "shots" : 1
         }
     ]
 }
