@@ -106,7 +106,7 @@
         },
         {
             "id" : 13,
-            "category" : 1,
+            "category" : 2,
             "people" : "?",
             "outloud" : true,
             "body" : "Por las siguientes dos rondas, todas las bebidas tienen un duende invisible! Antes de tomar, los jugadores deben remover el duende, y devolverlo despues de tomar. El jugador que olvide al duende, toma.",
@@ -130,7 +130,7 @@
         },
         {
             "id" : 16,
-            "category" : 2,
+            "category" : 1,
             "people" : "?",
             "outloud" : true,
             "body" : "Anuncia una pregunta del estilo \"¿Quien es el mas probable de...\", todos los jugadores a la cuenta de tres apuntan al jugador mas apropiado. Los jugadores toman por cada jugador apuntandoles.",
@@ -158,6 +158,422 @@
             "people" : "?",
             "outloud" : true,
             "body" : "En cualquier momento de esta ronda puedes congelar el juego, sin moverte. El ultimo jugador en darse cuenta y congelarse, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 20,
+            "category" : 2,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Esta ronda es apta para todo publico. El jugador que diga una obscenidad, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 21,
+            "category" : 2,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Esta ronda es cine mudo. El jugador que emita o cause algún sonido, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 22,
+            "category" : 2,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Durante esta ronda, eres un mimo. Si emites o causas algún sonido, tomas.",
+            "shots" : 1
+        },
+        {
+            "id" : 23,
+            "category" : 2,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Durante esta ronda, eres apto para todo publico. Si dices una obscenidad, tomas.",
+            "shots" : 1
+        },
+        {
+            "id" : 24,
+            "category" : 2,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Estás congelado durante esta ronda. Si te mueves, tomas.",
+            "shots" : 1
+        },
+        {
+            "id" : 25,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Durante esta ronda, los jugadores no pueden apuntar ni referirse a otros jugadores por sus nombres. El jugador que falle, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 26,
+            "category" : 0,
+            "people" : 2,
+            "outloud" : true,
+            "body" : "Los jugadores a tu lado toman.",
+            "shots" : 1
+        },
+        {
+            "id" : 27,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "El jugador a tu izquierda toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 28,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "El jugador a tu derecha toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 29,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Elige a un jugador para que tome.",
+            "shots" : 1
+        },
+        {
+            "id" : 30,
+            "category" : 0,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Todos toman.",
+            "shots" : 1
+        },
+        {
+            "id" : 31,
+            "category" : 2,
+            "people" : 2,
+            "outloud" : true,
+            "body" : "Juega \"Papel, Tijera, Piedra\" con otro jugador. El perdedor, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 32,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "El jugador de menor edad, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 33,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "El jugador de mayor edad, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 34,
+            "category" : 1,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Dale un cumplido a otro jugador, ese jugador toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 35,
+            "category" : 1,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Cuenta un chiste. Los jugadores que se rían, toman. Si ningún jugador se ríe, tomas.",
+            "shots" : 1
+        },
+        {
+            "id" : 36,
+            "category" : 1,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Explica tus ultimas cinco busquedas en Google, o toma.",
+            "shots" : 2
+        },
+        {
+            "id" : 37,
+            "category" : 0,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Todos los jugadores toman, excepto tu.",
+            "shots" : 1
+        },
+        {
+            "id" : 38,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Los jugadores eligen por voto popular quien toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 39,
+            "category" : 0,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Todos los jugadores menores a ti, toman. Si eres el menor, tomas.",
+            "shots" : 1
+        },
+        {
+            "id" : 40,
+            "category" : 0,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Todos los jugadores mayor a ti, toman. Si eres el mayor, tomas.",
+            "shots" : 1
+        },
+        {
+            "id" : 41,
+            "category" : 0,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Durante esta ronda, ningún jugador está permitido a responder tus preguntas. El jugador que te responda, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 42,
+            "category" : 1,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Durante esta ronda, debes cantar tu nombre antes de tomar.",
+            "shots" : 1
+        },
+        {
+            "id" : 43,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Durante esta ronda, todos los jugadores deben cantar sus nombre antes de tomar.",
+            "shots" : 1
+        },
+        {
+            "id" : 44,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Tararea una canción. El primer jugador en decir el nombre de la canción, elige quien toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 45,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : false,
+            "body" : "Inventa una carta. Si alguien no te cree, tomas.",
+            "shots" : 1
+        },
+        {
+            "id" : 46,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Describe una pelicula sin decir su nombre, personajes o actores. Si un jugador adivina, el resto toma. Si nadie adivina, tomas.",
+            "shots" : 1
+        },
+        {
+            "id" : 47,
+            "category" : 2,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Esta ronda es una reunión seria de trabajo. El jugador que se ría, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 48,
+            "category" : 2,
+            "people" : 2,
+            "outloud" : true,
+            "body" : "Desafía a otro jugador a una competencia de miradas. El primer jugador en parpadear o mirar a otro dirección, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 48,
+            "category" : 2,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Cambiale el nombre a otro jugador. El jugador que no use el nuevo nombre, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 49,
+            "category" : 1,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Durante esta ronda, solo puedes comunicarte usando palabras de una silaba.",
+            "shots" : 1
+        },
+        {
+            "id" : 50,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Durante esta ronda, solo pueden comunicarse usando palabras de una silaba.",
+            "shots" : 1
+        },
+        {
+            "id" : 51,
+            "category" : 2,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Los jugadores eligen un animal. Durante esta ronda, cada jugador debe hacer el sonido de ese animal antes de tomar.",
+            "shots" : 1
+        },
+        {
+            "id" : 52,
+            "category" : 2,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Los jugadores eligen un animal. Durante esta ronda, cada jugador debe hacer el sonido de ese animal antes de tomar.",
+            "shots" : 1
+        },
+        {
+            "id" : 53,
+            "category" : 2,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Los jugadores toman turnos diciendo \"Salud!\" en distintos idiomas. El jugador que repita idioma, o que demore mucho, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 54,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Escribe una palabra. El primer jugador en decir esa palabra, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 55,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Haz una pregunta de \"Yo nunca, nunca...\", los jugadores que lo hayan hecho, toman. Si no se te ocurre una pregunta, tomas.",
+            "shots" : 1
+        },
+        {
+            "id" : 56,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Los jugadores toman turnos diciendo palabras que comiencen con la misma silaba que la palabra del jugador anterior.",
+            "shots" : 1
+        },
+        {
+            "id" : 57,
+            "category" : 2,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Saca una carta, y adivina si la siguiente carta será de mayor, menor o igual valor. Si aciertas, los otros jugadores toman. Si te equivocas, tomas. Si aciertas con igual, toman doble.",
+            "shots" : 1
+        },
+        {
+            "id" : 56,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Elige una categoria. Los jugadores toman turnos diciendo palabras relacionadas a la categoria que comiencen con la misma letra que la palabra del jugador anterior.",
+            "shots" : 1
+        },
+        {
+            "id" : 57,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Duplica los tragos de un jugador.",
+            "shots" : 0
+        },
+        {
+            "id" : 58,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Toma un trago.",
+            "shots" : 1
+        },
+        {
+            "id" : 59,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Toma dos tragos.",
+            "shots" : 2
+        },
+        {
+            "id" : 60,
+            "category" : 0,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Toman las chicas.",
+            "shots" : 1
+        },
+        {
+            "id" : 61,
+            "category" : 0,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Toman los chicos.",
+            "shots" : 1
+        },
+        {
+            "id" : 62,
+            "category" : 0,
+            "people" : 2,
+            "outloud" : true,
+            "body" : "Los jugadores a tu lado toman.",
+            "shots" : 1
+        },
+        {
+            "id" : 63,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "El jugador a tu izquierda toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 64,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "El jugador a tu derecha toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 65,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Elige a un jugador para que tome.",
+            "shots" : 1
+        },
+        {
+            "id" : 66,
+            "category" : 0,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Todos toman.",
+            "shots" : 1
+        },
+        {
+            "id" : 67,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "El jugador de menor edad, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 68,
+            "category" : 0,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "El jugador de mayor edad, toma.",
             "shots" : 1
         }
     ]
