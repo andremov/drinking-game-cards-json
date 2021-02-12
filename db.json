@@ -393,14 +393,6 @@
             "shots" : 1
         },
         {
-            "id" : 48,
-            "category" : 2,
-            "people" : 1,
-            "outloud" : true,
-            "body" : "Cambiale el nombre a otro jugador. El jugador que no use el nuevo nombre, toma.",
-            "shots" : 1
-        },
-        {
             "id" : 49,
             "category" : 1,
             "people" : 1,
@@ -454,22 +446,6 @@
             "people" : "?",
             "outloud" : true,
             "body" : "Haz una pregunta de \"Yo nunca, nunca...\", los jugadores que lo hayan hecho, toman. Si no se te ocurre una pregunta, tomas.",
-            "shots" : 1
-        },
-        {
-            "id" : 56,
-            "category" : 1,
-            "people" : "?",
-            "outloud" : true,
-            "body" : "Los jugadores toman turnos diciendo palabras que comiencen con la misma silaba que la palabra del jugador anterior.",
-            "shots" : 1
-        },
-        {
-            "id" : 57,
-            "category" : 2,
-            "people" : 1,
-            "outloud" : true,
-            "body" : "Saca una carta, y adivina si la siguiente carta será de mayor, menor o igual valor. Si aciertas, los otros jugadores toman. Si te equivocas, tomas. Si aciertas con igual, toman doble.",
             "shots" : 1
         },
         {
@@ -574,6 +550,30 @@
             "people" : 1,
             "outloud" : true,
             "body" : "El jugador de mayor edad, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 69,
+            "category" : 2,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Cambiale el nombre a otro jugador. El jugador que no use el nuevo nombre, toma.",
+            "shots" : 1
+        },
+        {
+            "id" : 70,
+            "category" : 1,
+            "people" : "?",
+            "outloud" : true,
+            "body" : "Los jugadores toman turnos diciendo palabras que comiencen con la misma silaba que la palabra del jugador anterior.",
+            "shots" : 1
+        },
+        {
+            "id" : 71,
+            "category" : 2,
+            "people" : 1,
+            "outloud" : true,
+            "body" : "Saca una carta, y adivina si la siguiente carta será de mayor, menor o igual valor. Si aciertas, los otros jugadores toman. Si te equivocas, tomas. Si aciertas con igual, toman doble.",
             "shots" : 1
         }
     ]
