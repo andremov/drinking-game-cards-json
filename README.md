@@ -1,5 +1,5 @@
 
-# Monocuco
+# Drink, Speak or Play!
 Un _drinking game_ amigable para relaciones.
 
 ## ¿Como agregar tarjetas?
